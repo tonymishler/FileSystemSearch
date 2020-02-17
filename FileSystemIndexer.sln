@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemIndexer", "FileSystemIndexer\FileSystemIndexer.csproj", "{43B51BB7-726E-4C0F-89EA-E720D46ECFE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemIndexer.Console", "FileSystemIndexer\FileSystemIndexer.Console.csproj", "{43B51BB7-726E-4C0F-89EA-E720D46ECFE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

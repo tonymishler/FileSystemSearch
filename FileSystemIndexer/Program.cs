@@ -20,8 +20,7 @@ namespace FileSystemReadTest
             }
         }
 
-		//last run about 38 seconds
-        private static void ReadDrive(string location) { 
+       private static void ReadDrive(string location) { 
 			var di = new DirectoryInfo(location);
             var startTime = DateTime.Now;
 			Console.WriteLine("Starting scan at " + startTime);
